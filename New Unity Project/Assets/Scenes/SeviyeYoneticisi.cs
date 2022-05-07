@@ -28,21 +28,6 @@ public class SeviyeYoneticisi : MonoBehaviour
            seviye3_button.interactable = true;
         }
 
-          if(seviye4 == true)
-        {
-           seviye4_button.interactable = true;
-        }
-
-          if(seviye5 == true)
-        {
-           seviye5_button.interactable = true;
-        }
-
-          if(seviye6 == true)
-        {
-           seviye6_button.interactable = true;
-        }
-        
            if(sonopened == true)
         {
            seviyeson_button.gameObject.SetActive(true);

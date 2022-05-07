@@ -31,25 +31,7 @@ public class SeviyeBitirme : MonoBehaviour
 
       public static void seviye3bitir()
     {
-      SeviyeYoneticisi.seviye4 = true;
-         SceneManager.LoadScene("LevelMenu");
-    }
-
-       public  static void seviye4bitir()
-    {
-        SeviyeYoneticisi.seviye5 = true;
-         SceneManager.LoadScene("LevelMenu");
-    }
-
-       public static void seviye5bitir()
-    {
-      SeviyeYoneticisi.seviye6 = true;
-         SceneManager.LoadScene("LevelMenu");
-    }
-
-       public static void seviye6bitir()
-    {
-         SeviyeYoneticisi.sonopened = true;
+      SeviyeYoneticisi.sonopened = true;
          SceneManager.LoadScene("LevelMenu");
     }
 
