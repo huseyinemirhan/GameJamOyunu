@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 270211bb92862ec45bfcaafa15f3d2e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7747253332841756125
+    second: arkaplanmenu - Kopya_0
+  - first:
+      213: 3965035733522958184
+    second: arkaplanmenu - Kopya_1
+  - first:
+      213: 5786415983330135380
+    second: arkaplanmenu - Kopya_2
+  - first:
+      213: -2185343522202747240
+    second: arkaplanmenu - Kopya_3
+  - first:
+      213: 3996221755373044751
+    second: arkaplanmenu - Kopya_4
+  - first:
+      213: 9163420591499188134
+    second: arkaplanmenu - Kopya_5
+  - first:
+      213: 7223377804966803866
+    second: arkaplanmenu - Kopya_6
+  - first:
+      213: 6308841029205271829
+    second: arkaplanmenu - Kopya_7
+  - first:
+      213: 5013710137646318148
+    second: arkaplanmenu - Kopya_8
+  - first:
+      213: 3892490378680265570
+    second: arkaplanmenu - Kopya_9
+  - first:
+      213: -1163432977150655969
+    second: arkaplanmenu - Kopya_10
+  - first:
+      213: 6129073233329952328
+    second: arkaplanmenu - Kopya_11
+  - first:
+      213: 2857074327262133890
+    second: arkaplanmenu - Kopya_12
+  - first:
+      213: 5855006355316254032
+    second: arkaplanmenu - Kopya_13
+  - first:
+      213: 2315527109902501355
+    second: arkaplanmenu - Kopya_14
+  - first:
+      213: -1982984087403736318
+    second: arkaplanmenu - Kopya_15
+  - first:
+      213: 3130001457232378760
+    second: arkaplanmenu - Kopya_16
+  - first:
+      213: -6316541204111525989
+    second: arkaplanmenu - Kopya_17
+  - first:
+      213: -199706650504412161
+    second: arkaplanmenu - Kopya_18
+  - first:
+      213: -3843651059388351334
+    second: arkaplanmenu - Kopya_19
+  - first:
+      213: -7897141381468102053
+    second: arkaplanmenu - Kopya_20
+  - first:
+      213: 7147439325518761853
+    second: arkaplanmenu - Kopya_21
+  - first:
+      213: -8152237262626555570
+    second: arkaplanmenu - Kopya_22
+  - first:
+      213: 979004964937359673
+    second: arkaplanmenu - Kopya_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a8107f32a3c7490800000000000000
+      internalID: -7747253332841756125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 501
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867cd52fdf2a60730800000000000000
+      internalID: 3965035733522958184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 501
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0909ddaa7d4050800000000000000
+      internalID: 5786415983330135380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e77ee15a91ca1e0800000000000000
+      internalID: -2185343522202747240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 437
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04c2bc738e657730800000000000000
+      internalID: 3996221755373044751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 437
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71fc36a720b2f70800000000000000
+      internalID: 9163420591499188134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99bc7fa7d79e3460800000000000000
+      internalID: 7223377804966803866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 373
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a03a8d718d8750800000000000000
+      internalID: 6308841029205271829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 373
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4420f217ec6449540800000000000000
+      internalID: 5013710137646318148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26becd84067e40630800000000000000
+      internalID: 3892490378680265570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 309
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c5f41fd7aadfe0800000000000000
+      internalID: -1163432977150655969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 309
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469cfae1a7de0550800000000000000
+      internalID: 6129073233329952328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef85596fd56a720800000000000000
+      internalID: 2857074327262133890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 245
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a74e4249214150800000000000000
+      internalID: 5855006355316254032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 245
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5868563a7622020800000000000000
+      internalID: 2315527109902501355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035c039a760b74e0800000000000000
+      internalID: -1982984087403736318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 181
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b7accedbfff6b20800000000000000
+      internalID: 3130001457232378760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 181
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9770d7cd332758a0800000000000000
+      internalID: -6316541204111525989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c6650cdf7a3df0800000000000000
+      internalID: -199706650504412161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7a9cd9bb98aac0800000000000000
+      internalID: -3843651059388351334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 117
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526e8021c7b76290800000000000000
+      internalID: -7897141381468102053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0433a23ec03360800000000000000
+      internalID: 7147439325518761853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 53
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f07ce66f6dde80800000000000000
+      internalID: -8152237262626555570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkaplanmenu - Kopya_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 53
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316f6024df169d00800000000000000
+      internalID: 979004964937359673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
