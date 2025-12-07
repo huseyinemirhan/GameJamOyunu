@@ -1,3 +1,3 @@
 # GameJamOyunu
- /* inş güzel bir oyun olcak
-amin */
+inş güzel bir oyun olcak
+amin 
